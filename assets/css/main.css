@@ -2717,7 +2717,7 @@
 					text-decoration: none;
 					-webkit-tap-highlight-color: transparent;
 					font-size: 2em;
-					color: #dee1e3;
+					color: #c6984e;
 					z-index: 10005;
 				}
 
@@ -3115,7 +3115,7 @@
 
 	#footer {
 		padding: 6em 0 4em 0;
-		background: #000000;
+		background: #262728;
 		text-align: center;
 		color: #c8e7f0;
 	}
